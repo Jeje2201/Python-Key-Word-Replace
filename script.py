@@ -29,5 +29,5 @@ def on_key_press(event):
 
 # Register the on_key_press function to handle key presses
 keyboard.on_press(on_key_press)
-# Wait for the ESC key to be pressed to exit the program
+# Wait for the alt+p key to be pressed to exit the program
 keyboard.wait("alt+p")
