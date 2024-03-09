@@ -55,3 +55,4 @@ Open Source and Free: String Replacer's code is open source and free to use, so 
     python script.py
     ```
 1. **Enjoy:** Start typing anywhere, and watch as String Replacer dynamically replaces the specified strings with their replacements.
+1. **Stop it:** You can stop it by press alt+p
